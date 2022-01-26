@@ -1,0 +1,21 @@
+Begin Object Class=/Script/Engine.Material Name="Rockteksture_Ossi_Lehtola_ncl1_1_Mat"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_0"
+      Texture=Texture2D'"/Game/ThirdPersonBP/PetKivi_03/Rockteksture_Ossi_Lehtola_ncl1_1.Rockteksture_Ossi_Lehtola_ncl1_1"'
+      MaterialExpressionEditorX=-250
+      MaterialExpressionGuid=EE51C1C9417990183E875C942C400E56
+   End Object
+   BaseColor=(Expression=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_0"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   Expressions(0)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_0"'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=33A2027A4A375785E678ED9B4080D59B
+   CachedExpressionData=(ReferencedTextures=(Texture2D'"/Game/ThirdPersonBP/PetKivi_03/Rockteksture_Ossi_Lehtola_ncl1_1.Rockteksture_Ossi_Lehtola_ncl1_1"'),QualityLevelsUsed=(False,False,False,False))
+   ReferencedTextureGuids(0)=5DD56BA04B29D3B37B87C4B35606D014
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=0E97C30448A1056660A1EA9EBD41268B
+End Object
